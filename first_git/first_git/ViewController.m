@@ -19,6 +19,7 @@
     
     NSLog(@"first--修改");
     NSLog(@"second--修改");
+    NSLog(@"svnbranch--修改");
 }
 
 @end
