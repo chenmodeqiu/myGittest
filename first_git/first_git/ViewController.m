@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"first--修改");
+    NSLog(@"second--修改");
 }
 
 @end
